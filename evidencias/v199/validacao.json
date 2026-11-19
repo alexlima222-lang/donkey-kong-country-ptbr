@@ -1,0 +1,154 @@
+[
+  {
+    "variant": "v199_final_T",
+    "frame": 2800,
+    "pixels_changed": 0,
+    "bbox": null,
+    "snesVideoRam_changed": 0,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_T",
+    "frame": 3000,
+    "pixels_changed": 0,
+    "bbox": null,
+    "snesVideoRam_changed": 0,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_T",
+    "frame": 3300,
+    "pixels_changed": 717,
+    "bbox": [
+      59,
+      152,
+      107,
+      184
+    ],
+    "snesVideoRam_changed": 504,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_T",
+    "frame": 3600,
+    "pixels_changed": 0,
+    "bbox": null,
+    "snesVideoRam_changed": 0,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_T",
+    "frame": 3900,
+    "pixels_changed": 717,
+    "bbox": [
+      59,
+      152,
+      107,
+      184
+    ],
+    "snesVideoRam_changed": 504,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_T",
+    "frame": 4200,
+    "pixels_changed": 0,
+    "bbox": null,
+    "snesVideoRam_changed": 0,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_O",
+    "frame": 2800,
+    "pixels_changed": 0,
+    "bbox": null,
+    "snesVideoRam_changed": 0,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_O",
+    "frame": 3000,
+    "pixels_changed": 0,
+    "bbox": null,
+    "snesVideoRam_changed": 0,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_O",
+    "frame": 3300,
+    "pixels_changed": 717,
+    "bbox": [
+      59,
+      152,
+      107,
+      184
+    ],
+    "snesVideoRam_changed": 504,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_O",
+    "frame": 3600,
+    "pixels_changed": 0,
+    "bbox": null,
+    "snesVideoRam_changed": 0,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_O",
+    "frame": 3900,
+    "pixels_changed": 717,
+    "bbox": [
+      59,
+      152,
+      107,
+      184
+    ],
+    "snesVideoRam_changed": 504,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  },
+  {
+    "variant": "v199_final_O",
+    "frame": 4200,
+    "pixels_changed": 0,
+    "bbox": null,
+    "snesVideoRam_changed": 0,
+    "snesWorkRam_changed": 0,
+    "snesCgRam_changed": 0,
+    "snesSpriteRam_changed": 0,
+    "snesSaveRam_changed": 0
+  }
+]

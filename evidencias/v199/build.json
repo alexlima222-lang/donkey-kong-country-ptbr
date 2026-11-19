@@ -1,0 +1,42 @@
+{
+  "placements": [
+    {
+      "text": "BANANAS",
+      "x": 6,
+      "y": 13,
+      "width": 43,
+      "height": 10
+    },
+    {
+      "text": "DO",
+      "x": 20,
+      "y": 25,
+      "width": 15,
+      "height": 10
+    },
+    {
+      "text": "KONG",
+      "x": 12,
+      "y": 34,
+      "width": 31,
+      "height": 8
+    }
+  ],
+  "new_ink_pixels": 357,
+  "pixels_outside_wood": 0,
+  "minimum_native_margin": 1.0,
+  "source_offset": "0x06099B",
+  "source_size": 1024,
+  "roms": {
+    "TRADUZIDOS": {
+      "sha256": "240cf99a17801b1cd7780804db9d7be178da3514b33bba36ad66a5278cbc4e6e",
+      "base_sha256": "16f5dc6c73f103b558d3e6bdbbed6a31b69ed9a34efc09f29a851c6385eebe84",
+      "bytes_changed": 504
+    },
+    "ORIGINAIS": {
+      "sha256": "8a08beff657e5ae2e06461b0ffe402c075a5e52e3f306617b3f001d8afe33bce",
+      "base_sha256": "ac496c07f08f6e37ccc39e20949047eee1ed0326641f601bd170b00df1242bcc",
+      "bytes_changed": 504
+    }
+  }
+}

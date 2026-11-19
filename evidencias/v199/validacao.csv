@@ -1,0 +1,13 @@
+variant,frame,pixels_changed,bbox,snesVideoRam_changed,snesWorkRam_changed,snesCgRam_changed,snesSpriteRam_changed,snesSaveRam_changed
+v199_final_T,2800,0,,0,0,0,0,0
+v199_final_T,3000,0,,0,0,0,0,0
+v199_final_T,3300,717,"[59, 152, 107, 184]",504,0,0,0,0
+v199_final_T,3600,0,,0,0,0,0,0
+v199_final_T,3900,717,"[59, 152, 107, 184]",504,0,0,0,0
+v199_final_T,4200,0,,0,0,0,0,0
+v199_final_O,2800,0,,0,0,0,0,0
+v199_final_O,3000,0,,0,0,0,0,0
+v199_final_O,3300,717,"[59, 152, 107, 184]",504,0,0,0,0
+v199_final_O,3600,0,,0,0,0,0,0
+v199_final_O,3900,717,"[59, 152, 107, 184]",504,0,0,0,0
+v199_final_O,4200,0,,0,0,0,0,0
