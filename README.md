@@ -1,63 +1,65 @@
-# Donkey Kong Country â€” TraduÃ§Ã£o PT-BR ðŸ‡§ðŸ‡·
+# Donkey Kong Country — Tradução PT-BR 🇧🇷
 
-Projeto independente de traduÃ§Ã£o de **Donkey Kong Country (Super Nintendo)** para portuguÃªs brasileiro, desenvolvido a partir da versÃ£o americana do jogo.
+Projeto independente de tradução de **Donkey Kong Country (Super Nintendo)** para português brasileiro, desenvolvido a partir da versão americana do jogo.
 
-O objetivo Ã© oferecer uma experiÃªncia em portuguÃªs preservando a jogabilidade, a identidade visual e, sempre que possÃ­vel, a apresentaÃ§Ã£o do jogo original.
+O objetivo é oferecer uma experiência em português, preservando a jogabilidade, a identidade visual e, sempre que possível, a apresentação do jogo original.
 
 ## Estado do projeto
 
-**Primeira versÃ£o pÃºblica: v1.0 Beta** (base tÃ©cnica: checkpoint v199).
+**Primeira versão pública: v1.0 Beta** (base técnica: checkpoint v199).
 
-A traduÃ§Ã£o jÃ¡ possui melhorias em menus e textos, alÃ©m de ajustes grÃ¡ficos. Esta primeira distribuiÃ§Ã£o inclui a correÃ§Ã£o da placa da placa **BANANAS DO KONG**, encontrada na caverna da primeira fase. A campanha completa ainda nÃ£o foi certificada; por isso, esta primeira versÃ£o Ã© apresentada como beta.
+A tradução inclui melhorias em menus e textos, além de ajustes gráficos. Esta primeira distribuição inclui a correção da placa **BANANAS DO KONG**, encontrada na caverna da primeira fase.
 
-## Duas opÃ§Ãµes de traduÃ§Ã£o
+A campanha completa ainda não foi certificada; por isso, a versão é apresentada como beta.
 
-A versÃ£o pÃºblica **v1.0** utiliza internamente o checkpoint **v199**; essa numeraÃ§Ã£o tÃ©cnica permanece nos nomes dos patches para garantir rastreabilidade.
+## Duas opções de tradução
 
 O projeto oferece dois patches alternativos:
 
-| VersÃ£o | CaracterÃ­sticas | Arquivo IPS |
+| Versão | Características | Arquivo IPS |
 | --- | --- | --- |
-| **Nomes traduzidos** | Menus e nomes das fases em portuguÃªs | `USA_v1.0_para_v199_TRADUZIDOS.ips` |
-| **Nomes originais** | Preserva os nomes americanos das fases, mantendo as demais alteraÃ§Ãµes da traduÃ§Ã£o | `USA_v1.0_para_v199_ORIGINAIS.ips` |
+| **Nomes traduzidos** | Menus e nomes das fases em português | `USA_v1.0_para_v199_TRADUZIDOS.ips` |
+| **Nomes originais** | Preserva os nomes americanos das fases, mantendo as demais alterações da tradução | `USA_v1.0_para_v199_ORIGINAIS.ips` |
 
-**Escolha somente um dos patches.** Ambos sÃ£o cumulativos e devem ser aplicados diretamente Ã  ROM americana original, sem traduÃ§Ã£o prÃ©via.
+**Escolha somente um dos patches.** Ambos são cumulativos e devem ser aplicados diretamente à ROM americana original, sem tradução prévia. A numeração v199 nos arquivos identifica o checkpoint técnico usado na versão pública v1.0.
 
-## Destaques da primeira versÃ£o (v1.0)
+## Destaques da versão 1.0
 
-- CorreÃ§Ã£o grÃ¡fica da placa **BANANAS DO KONG** na caverna da primeira fase.
-- Letras adaptadas Ã  inclinaÃ§Ã£o das tÃ¡buas, utilizando tons e elementos grÃ¡ficos da placa americana.
-- PreservaÃ§Ã£o das melhorias de menus da v198.
+- Correção gráfica da placa **BANANAS DO KONG** na caverna da primeira fase.
+- Letras adaptadas à inclinação das tábuas, utilizando tons e elementos gráficos da placa americana.
+- Preservação das melhorias de menus da etapa v198.
 - Duas variantes com nomes de fases traduzidos ou originais.
 
 ## Como instalar
 
-1. Utilize sua prÃ³pria cÃ³pia de **Donkey Kong Country USA v1.0**, sem cabeÃ§alho de copiador (*header*).
-2. FaÃ§a backup da ROM original e, por precauÃ§Ã£o, dos arquivos de salvamento (`.srm`).
-3. Baixe o patch IPS da variante desejada na pasta `patches/` ou na seÃ§Ã£o **Releases**.
-4. Aplique o IPS Ã  **ROM original limpa** com um programa compatÃ­vel com IPS.
-5. Abra a ROM modificada em um emulador compatÃ­vel com SNES.
+1. Utilize sua própria cópia de **Donkey Kong Country USA v1.0**, sem cabeçalho de copiador (*header*).
+2. Faça backup da ROM original e, por precaução, dos arquivos de salvamento (`.srm`).
+3. Baixe **um** dos patches IPS na pasta `patches/` ou na seção **Releases**.
+4. Aplique o IPS à **ROM original limpa**, usando uma ferramenta compatível com IPS.
+5. Abra a ROM modificada em um emulador compatível com SNES.
 
-NÃ£o aplique os dois patches entre si, nem sobre uma versÃ£o jÃ¡ traduzida. Se o emulador associa o salvamento ao nome da ROM, uma cÃ³pia do `.srm` com o nome correspondente pode ser necessÃ¡ria. NÃ£o Ã© obrigatÃ³rio iniciar um jogo novo para a correÃ§Ã£o da placa.
+Não aplique os dois patches entre si, nem sobre uma versão já traduzida. Se o emulador associa o salvamento ao nome da ROM, talvez seja necessário renomear uma cópia do arquivo `.srm` para corresponder à ROM modificada.
 
-## Testes e limitaÃ§Ãµes
+## Testes e limitações
 
-A base tÃ©cnica v199 foi testada no **Mesen 2** nas duas variantes, com visitas e reentrada na caverna. O relatÃ³rio tÃ©cnico documenta comparaÃ§Ãµes de imagens e memÃ³ria, indicando que a alteraÃ§Ã£o da v199 em relaÃ§Ã£o Ã  v198 ficou restrita ao recurso grÃ¡fico da placa.
+A base técnica v199 foi testada no **Mesen 2** nas duas variantes, incluindo visitas e reentrada na caverna. O relatório técnico registra comparações de imagens e memória, indicando que a alteração da v199 em relação à v198 ficou restrita ao recurso gráfico da placa.
 
-**Esses testes nÃ£o equivalem Ã  conclusÃ£o de uma campanha inteira.** Outros textos e situaÃ§Ãµes do jogo ainda podem precisar de revisÃ£o.
+**Esses testes não equivalem à conclusão de uma campanha inteira.** Outros textos e situações do jogo ainda podem precisar de revisão.
 
-## Estrutura do repositÃ³rio
+## Estrutura do repositório
 
-- `patches/` â€” patches IPS para aplicar Ã  ROM original.
-- `docs/` â€” relatÃ³rios, capturas de comparaÃ§Ã£o e dados de validaÃ§Ã£o.
-- `README.md` â€” apresentaÃ§Ã£o e instruÃ§Ãµes do projeto.
+- `patches/` — patches IPS para aplicar à ROM original.
+- `docs/` — relatórios, capturas e dados de validação.
+- `scripts/` — ferramentas de aplicação e validação.
+- `evidencias/` — registros e evidências de desenvolvimento.
+- `README.md` — apresentação e instruções do projeto.
 
 ## Como relatar problemas
 
-Abra uma **Issue** informando a variante do patch, o emulador e sua versÃ£o, a fase ou menu afetado e, se possÃ­vel, uma captura de tela e os passos para reproduzir o problema. NÃ£o envie ROMs comerciais.
+Abra uma **Issue** informando a variante do patch, o emulador e sua versão, a fase ou menu afetado e, se possível, uma captura de tela e os passos para reproduzir o problema. Não envie ROMs comerciais.
 
-## CrÃ©ditos e direitos autorais
+## Créditos e direitos autorais
 
-Projeto de traduÃ§Ã£o PT-BR independente, mantido por **alexlima222-lang**, com auxÃ­lio de ferramentas de anÃ¡lise e do ChatGPT durante o desenvolvimento.
+Projeto de tradução PT-BR independente, mantido por **alexlima222-lang**, com auxílio de ferramentas de análise e do ChatGPT durante o desenvolvimento.
 
-*Donkey Kong Country*, seus personagens, mÃºsicas, imagens e demais elementos originais pertencem aos respectivos titulares de direitos. Este projeto nÃ£o Ã© oficial e **nÃ£o distribui ROMs comerciais**: somente patches e documentaÃ§Ã£o.
+*Donkey Kong Country*, seus personagens, músicas, imagens e demais elementos originais pertencem aos respectivos titulares de direitos. Este projeto não é oficial e **não distribui ROMs comerciais**, somente patches e documentação.
