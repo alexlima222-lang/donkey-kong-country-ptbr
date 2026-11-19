@@ -1,0 +1,1 @@
+{"Debug": {"ScriptWindow": {"AllowIoOsAccess": true}}, "Snes": {"Region": "Ntsc", "Port1": {"Type": "SnesController"}, "DisableFrameSkipping": true}}
