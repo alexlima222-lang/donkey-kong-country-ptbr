@@ -1,0 +1,25 @@
+DKC PT-BR v199 — PLACA DE BANANAS DA CAVERNA
+
+Correção exclusiva da placa na caverna do início da primeira fase.
+Texto: BANANAS / DO / KONG.
+As letras agora seguem a inclinação das tábuas e usam os tons da pintura original.
+Os gráficos da placa americana foram usados para recuperar a madeira e remover os restos da tradução anterior.
+
+ROMs:
+NOMES_TRADUZIDOS: nomes das fases em português.
+NOMES_ORIGINAIS: nomes das fases originais; restante da tradução em português.
+
+As melhorias dos menus da v198 estão preservadas.
+
+Patches (escolha apenas o adequado):
+- USA_v1.0_para_v199: para a ROM americana v1.0 original, sem header de copiador.
+- v198_para_v199: para a variante correspondente da v198.
+- v199_para_v198: reverte a correção da placa na mesma variante.
+
+Capturas/placa_antes_depois.png: comparação real do Mesen.
+Capturas/USA_antes_depois.png: inclui a referência americana.
+RELATORIO.md: evidências e limites da validação.
+
+Preserve seus arquivos .srm. Não é necessário começar um jogo novo.
+Se o seu emulador usa o nome da ROM para reconhecer o save, utilize uma CÓPIA do .srm com o mesmo nome da ROM v199.
+A validação desta revisão não representa uma certificação de campanha completa.
