@@ -1,0 +1,31 @@
+# Entradas locais e resultados gerados
+/local/
+/Recriado/
+/output/
+/runtime/
+/ROMs/
+/Saves/
+/SaveStates/
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.pem
+*.key
+# ROMs, saves, imagens de disco e dumps não entram no projeto público
+*.sfc
+*.smc
+*.srm
+*.sav
+*.state
+*.mss
+*.frz
+*.bin
+*.rom
+*.iso
+*.chd
+*.zip
+*.7z
+*.rar
+.DS_Store

@@ -1,0 +1,21 @@
+{
+  "patches/v198/USA_v1.0_para_v198_ORIGINAIS.ips": "435069218b906c6f348aeb92d3ca2d37e4d68784d5df45cadfbea18b246cb356",
+  "patches/v198/USA_v1.0_para_v198_TRADUZIDOS.ips": "48689a89e2755aa6f7a5b1e8252d409c6b6448dc633ba0cd109c23f8b8335f9a",
+  "patches/v198/v197_para_v198_ORIGINAIS.ips": "e7dc8fc110cd5ea3cc34ff596f8fbe326b0aebae82469cff4a8f46f86f3ccdfe",
+  "patches/v198/v197_para_v198_TRADUZIDOS.ips": "e7dc8fc110cd5ea3cc34ff596f8fbe326b0aebae82469cff4a8f46f86f3ccdfe",
+  "patches/v198/v198_para_v197_ORIGINAIS.ips": "8ed09932a79b02d06b181db285abfeff703b49c12793cd69121e112c76adff08",
+  "patches/v198/v198_para_v197_TRADUZIDOS.ips": "8ed09932a79b02d06b181db285abfeff703b49c12793cd69121e112c76adff08",
+  "patches/v199/USA_v1.0_para_v199_ORIGINAIS.ips": "663f45adbf5cd7c31af1a08fd25ec29bf7808b346a5ee473d456c8a4c2907d5e",
+  "patches/v199/USA_v1.0_para_v199_TRADUZIDOS.ips": "47198795c851b12e0a9aa6d2c1a9ae5e39068e445c87b41f2a100e73d91b017b",
+  "patches/v199/v198_para_v199_ORIGINAIS.ips": "702335eefb55d7f8e06fe7e5b514855314e8b20c52e0db9e06afc474e1f577dc",
+  "patches/v199/v198_para_v199_TRADUZIDOS.ips": "702335eefb55d7f8e06fe7e5b514855314e8b20c52e0db9e06afc474e1f577dc",
+  "patches/v199/v199_para_v198_ORIGINAIS.ips": "0a0b80c69370d8095b498c46e990a0ab9f11377064c4d1549247a9a678a79278",
+  "patches/v199/v199_para_v198_TRADUZIDOS.ips": "0a0b80c69370d8095b498c46e990a0ab9f11377064c4d1549247a9a678a79278",
+  "assets/rebuild/v199/montagem_sprites.npy": "c84457f5bc88e4d046c894499464a47a588cfb267eeb94ffdd9ce721d12b8769",
+  "assets/rebuild/v199/paleta_original.json": "355f1b3ad6f62d7c544d97e924aa83c1a38c00742c61e2da187624cc69f7eed7",
+  "assets/rebuild/v199/placa_indices_original.png": "1fc3aab17b8fab687f8301742a786ef9ed4cd5314aa0ea4fda3dab1d19aa1201",
+  "evidencias/v199/build.json": "27fdfae91cfbeab16b66211fa1cf0b9f4a8ae5e7c9bdb50fc32fe3d130422124",
+  "evidencias/v199/validacao.csv": "6cd99c8d55fe9ac4cf9d2dc3ba50e175988939507415322a33a98a5d1861d4a3",
+  "evidencias/v199/validacao.json": "1fbd9565acbaacd534658e2d0036bb5cefeac4c790473ad716626b9499dbfb5c",
+  "evidencias/verificacao_publicacao.json": "d3f9ad9380fec816d8d5b8ebd9c4e2f66e5961e8c358f847a651524beab728a5"
+}
