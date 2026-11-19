@@ -1,0 +1,29 @@
+name: Relatar erro na tradução
+description: Texto incorreto, gráfico deslocado ou problema de execução
+labels: ["bug"]
+body:
+  - type: input
+    id: versao
+    attributes:
+      label: Versão e variante
+      description: Exemplo: v199, nomes das fases traduzidos
+    validations:
+      required: true
+  - type: input
+    id: emulador
+    attributes:
+      label: Emulador ou hardware
+      description: Informe também a versão, se souber.
+  - type: textarea
+    id: contexto
+    attributes:
+      label: Local e passos para reproduzir
+      description: Não anexe ROMs ou saves. Uma captura da tela e a descrição do erro bastam.
+    validations:
+      required: true
+  - type: textarea
+    id: resultado
+    attributes:
+      label: Resultado observado e esperado
+    validations:
+      required: true
