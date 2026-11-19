@@ -1,0 +1,21 @@
+{
+  "result": "PASS",
+  "variants": {
+    "TRADUZIDOS": {
+      "application": "PASS",
+      "rebuild": "PASS",
+      "roundtrip_v198_v199": "PASS",
+      "sha256": "240cf99a17801b1cd7780804db9d7be178da3514b33bba36ad66a5278cbc4e6e"
+    },
+    "ORIGINAIS": {
+      "application": "PASS",
+      "rebuild": "PASS",
+      "roundtrip_v198_v199": "PASS",
+      "sha256": "8a08beff657e5ae2e06461b0ffe402c075a5e52e3f306617b3f001d8afe33bce"
+    }
+  },
+  "roms_published": false,
+  "saves_published": false,
+  "remote_created": false,
+  "note": "Auditoria local anterior ao primeiro envio; não representa nova execução de campanha."
+}
